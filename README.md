@@ -1,4 +1,4 @@
-# Desafio Mundial
+
 
 1. [Introdução](./INTRO.md)
 2. [Aplicação](./APP.md)
