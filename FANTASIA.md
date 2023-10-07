@@ -15,7 +15,7 @@ Se querem entender mais profundamente este sonho, sugiro a consulta dos seguinte
 
 - Um simples exercício mental:
 
-> ### [OM](https://www.odicforcesounds.com/#/three/you/tell/me) [1] [Fantasia](https://www.odicforcesounds.com/#/fire) (**Yang**(0)) : "[Viémos em Paz - Trance Zone](https://www.odicforcesounds.com/#/we/came/in/peace) - Zona de Ressonancia" {**m**}
+> ### [OM](https://odicforcesounds.com) [1] Fantasia (**Yang**(0)) : "[Viémos em Paz - Trance Zone](https://www.odicforcesounds.com/#/we/came/in/peace) - Zona de Ressonancia" {**m**}
 
 - Inspira ar até encher os pulmões e não largues por uns momentos de forma a idealizares-te numa qualquer situação.
 

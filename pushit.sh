@@ -12,7 +12,7 @@ sleep 1
 echo "ssh-key-id added"
 git add . 
 echo "all changes added to commit state"
-git commit -m "Make it Right for a better Ride"
+git commit -m "A Expressão já é ação, sendo que também é matéria."
 git push git@github.com:odicforcesounds/Desafio-Mundial
 echo "Push completed"
 sleep 3
