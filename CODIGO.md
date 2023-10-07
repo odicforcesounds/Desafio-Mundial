@@ -1,11 +1,10 @@
 # Código
 
+> // from the album: Spiritual Algorithm - Dive into the World of JavaScript 
 > // JavaScript - Mr. JSON
 
-- TypeScript
-- JavaScript
-- Angular
-- Firebase
+
+- TypeScript?
 - NoSQL
 
 > // Variaveis
