@@ -1,5 +1,3 @@
-
-
 1. [Introdução](./INTRO.md)
 2. [Aplicação](./APP.md)
 3. [Conceitos](./CONCEITOS.md)
