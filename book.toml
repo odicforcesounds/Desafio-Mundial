@@ -1,6 +1,6 @@
 [book]
 authors = ["Monkey"]
-language = "en"
+language = "pt"
 multilingual = false
-src = "src"
+src = "docs"
 title = "Desafio Mundial"
