@@ -3,7 +3,7 @@ title: Desafio Mundial
 email: info@odicforcesounds.com 
 description: Um desafio que se foca na necessidade da mudança comportamental da industria em geral. Um sistema que apresenta um novo conceito de economia, que quer potenciar as qualidades de todas os participantes.
 baseurl: "/"
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wiki.odicforcesounds.com" # the base hostname & protocol for your site, e.g. http://example.com
   #twitter_username: jekyllrb
 github_username:  odicforcesounds
 
