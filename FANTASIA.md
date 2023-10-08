@@ -15,7 +15,7 @@ Se querem entender mais profundamente este sonho, sugiro a consulta dos seguinte
 
 - Um simples exercício mental:
 
-> ### [OM](https://odicforcesounds.com) [1] Fantasia (**Yang**(0)) : "[Viémos em Paz - Trance Zone](https://www.odicforcesounds.com/#/we/came/in/peace) - Zona de Ressonancia" {**m**}
+> ### [OM](https://art.odicforcesounds.com/pages/YinYang/Tao/index.html) [1] [Fantasia](https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/02_We_Bring_Fire/index.html) (**Yang**(0)) : "[Viémos em Paz - Trance Zone](https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/01_We_Came_in_Peace/index.html) - Zona de Ressonancia" {**m**}
 
 - Inspira ar até encher os pulmões e não largues por uns momentos de forma a idealizares-te numa qualquer situação.
 
@@ -23,11 +23,11 @@ Se querem entender mais profundamente este sonho, sugiro a consulta dos seguinte
 - Depois somamos o "Sonho" ao último passo, ao qual chamamos de <b>Espírito</b>, que refere a nossa capacidade de nos auto-compararmo-nos às criações que acabamos de produzir, o que significa que estamos a usar a <b>Lógica</b>:
 
 
-> ### '+' [Espírito](https://www.odicforcesounds.com/#/secret/responsability/exposed) [1] [Lógica](./https://www.odicforcesounds.com/#/hacking/into/the/error/festival/patch) (**Yin**(1)) : "[A nossa Licença Eterna](https://www.odicforcesounds.com/#/license)" {**E**}
+> ### '+' **Espírito** [1] **Lógica** (**Yin**(1)) : "A nossa **Licença Eterna**" {**E**}
 
 - Pela <b>lógica</b>, cada pessoa no mundo, homem ou mulher, mesmo tendo as mesmas capacidades físicas e\ou ferramentas físicas, assume-se que todos tenham desenvolvido diferentes caracteristicas dos restantes. A isso chamamos de <b>Espírito</b>.
 
-- Este conceito de ser logicamente uma auto-criação como resultado da nossa auto-comparação, sugere-nos um ótimo slogan: O nosso [Espírito](https://www.odicforcesounds.com/#/respect/spiritual/life) o nosso [Estilo](https://www.odicforcesounds.com/#/my/style)!
+- Este conceito de ser logicamente uma auto-criação como resultado da nossa auto-comparação, sugere-nos um ótimo slogan: O nosso **Espírito** o nosso **Estilo**!
 
 - Estilos estão relacionados com <b>cores</b> e a Cor é uma das criações do <b>cérebro</b> que acontecem quando ouvimos <b>música</b> e\ou ruídos e\ou sons.
 
@@ -35,10 +35,6 @@ Se querem entender mais profundamente este sonho, sugiro a consulta dos seguinte
 
 - Partilha o som da tua voz em voz alta, expressando a tua auto-criação.
 
-> ### = [Expressão](https://www.odicforcesounds.com/#/expression) [1] [Aplicação](./APP.md) : (Tao) - "Missão em [Tempo Real](https://www.odicforcesounds.com/#/tao) " {c2}
-
-Leituras sugeridas:
-
-- Todas as notas podem ser lidas na página de <b>Facebook</b> chamada <b>[OdicforceSounds](https://www.facebook.com/odicforcesounds/)</b>.
+> ### = **Expressão** [1] [Aplicação](./APP.md) : (Tao) - "Missão em **Tempo Real** " {c2}
 
 [Voltar](./README.md) para a página inicial
