@@ -8,7 +8,7 @@ url: "https://wiki.odicforcesounds.com" # the base hostname & protocol for your 
 github_username:  odicforcesounds
 
 # Build settings
-theme: minima
+theme: sidey 
 # plugins:
 #   - jekyll-feed
 
