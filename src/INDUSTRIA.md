@@ -10,4 +10,3 @@ A partilha de documentos que comprovem decisões internas que beneficiem a Natur
 
 Lembrem-se que todos os funcionários das empresas inscritas, ainda recebem expressões numéricas que representam valor, sobre qualidades pessoais, profissionais e\ou sociais, entre colegas e entre clientes.
 
-[Voltar](./README.md) para a página principal

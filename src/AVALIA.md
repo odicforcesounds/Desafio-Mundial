@@ -20,4 +20,3 @@ Quando o mesmo acontece com 7 marcações em sequência da opção R ( Reportar 
 
 A Caixa Negra é um processo de avaliação e exposição para fins de educação, onde os vídeos serão vistos pela equipa interna e em casos de abuso, expostos da zona pública do site que irá servir unicamente esse propósito.
 
-[Voltar](./README.md) para a página inicial

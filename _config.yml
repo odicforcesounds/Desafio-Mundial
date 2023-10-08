@@ -1,15 +1,16 @@
 # Welcome to Jekyll!
-title: Your awesome title
-email: your-email@example.com
-description: Um desafio industrial e comercial que irá mudar o mundo para um rumo mais positivo
+title: Desafio Mundial
+email: info@odicforcesounds.com 
+description: Um desafio que se foca na necessidade da mudança comportamental da industria em geral. Um sistema que apresenta um novo conceito de economia, que quer potenciar as qualidades de todas os participantes.
 baseurl: "/"
-url: "https://wiki.odicforcesounds.com" 
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  #twitter_username: jekyllrb
 github_username:  odicforcesounds
 
 # Build settings
-theme:
-#plugins:
-#  - jekyll-feed
+theme: minima
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -19,14 +20,14 @@ theme:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-#  exclude:
-#    - .sass-cache/
-#    - .jekyll-cache/
-#    - gemfiles/
-#    - Gemfile
-#    - Gemfile.lock
-#    - node_modules/
-#    - vendor/bundle/
-#    - vendor/cache/
-#    - vendor/gems/
-#    - vendor/ruby/
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

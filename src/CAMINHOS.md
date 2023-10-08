@@ -24,4 +24,3 @@ Verificação da aplicação do conhecimento associado, para servir cuidar do me
 2. Alimentação, Água, Roupa, Dormida, Vacinação, Banho, Companhia.
 3. Estadia: Quarto e Acompanhamentos educacionais, informações adicionais.
 
-[voltar](./README.md) para a página inicial

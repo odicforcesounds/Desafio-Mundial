@@ -34,6 +34,5 @@ Tu és a Madeira ( America(Yin) ) [1],
 
 Eu sou o Fogo ( Asia(Yang) ) [1],
 
-o que significa que 1 + 1 = 1 OU 3 ([Tao](https://www.odicforcesounds.com/#/you/are/the/wood/i/am/the/fire))
+o que significa que 1 + 1 = 1 OU 3 ([Tao](https://art.odicforcesounds.com/pages/YinYang/Tao/index.html))
 
-[Voltar](./README.md) para a página inicial

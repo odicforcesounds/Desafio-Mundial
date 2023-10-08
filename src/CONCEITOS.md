@@ -6,4 +6,3 @@ Todos os utilizadores associados à Competição [Industrial](INDUSTRIA.md) que 
 
 Sugestões [Comerciais](POLITICA.md) e [Educacionais](EDUCA.md), também são referidas.
 
-[Voltar](./README.md) para a página inicial

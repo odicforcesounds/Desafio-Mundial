@@ -2,7 +2,7 @@
 
 ## Governo, Estado e Bancos
 
-Como podem imaginar ao ler e pensar o que lêm, estamos a falar de energia que representa valor e\ou gasto e\ou serviço e\ou trabalho e\ou atenção, que merece ser retribuída pois é essa a função actual de qualquer trabalho do mundo. Tanto é que curiosamente bancos públicos como a CGD cobra por atendimento ao balcão (3€). Três euros por breves minutos de atenção.
+Como podem imaginar ao ler e pensar o que lêm, estamos a falar de energia que representa valor e\ou gasto e\ou serviço e\ou trabalho e\ou atenção, que merece ser retribuída pois é essa a função actual de qualquer trabalho do mundo. 
 
 Cada [Moeda](./MOEDA.md) representa valor e esse valor deverá ter expressão na realidade. Como tal é o vosso dever colaborar. Caso contrário será necessário criar uma nova economia paralela, tal como a Bitcoin onde a energia é medida pelo processamento de dados dos computadores, sendo que neste nosso caso, são processadores humanos. Continua a ser uma simples expressão numérica que "muitas pessoas associam valor" e que tanto no caso da Bitcoin como desta aplicão, é puramente digital, isto é, só pode ser expressa usando energia.  
 
@@ -22,4 +22,3 @@ A vossa interação no local também poderá ter resultados dos papeis inversos,
 
 A aplicação serve o vosso serviço, que "dança" juntamento com a atenção do cidadão e da cidadã. A avaliação de comportamentos em tempo real, não é obrigatória, mas poderá ser útil quando queremos agradecer a prestação de atenção de ambas as partes na nossa relação com, que serve para Educar comportamentos e\ou escolhas, motivando tod@s para que @s mesm@s sejam resolvid@s, isto é, aprendid@s.
 
-[Voltar](./README.md) para a página inicial

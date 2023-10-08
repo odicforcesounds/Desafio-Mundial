@@ -14,4 +14,3 @@ Em função de cada acção aprovada, o "jogador", ganha um ponto que é represe
 
 3. Os jogadores podem ser ferramenta de atenção nos mais variados [caminhos](./CAMINHOS.md) que obviamente se subdividem nas várias ramificações que cada caminho pode apresentar como possíveis.
 
-[Voltar](./README.md) para a página inicial
