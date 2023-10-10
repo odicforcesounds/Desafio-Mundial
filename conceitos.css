@@ -1,6 +1,6 @@
 header {
-  text-align: center;
   font-size: xx-large;
+  text-align: center;
 }
 
 .content {
@@ -10,9 +10,9 @@ header {
 }
 
 .content p {
-  font-size: calc(1vw + 0.5vh + 0.2vmin);
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
-footer{
+footer {
   margin-top: 5%;
 }

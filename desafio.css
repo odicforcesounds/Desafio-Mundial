@@ -9,10 +9,10 @@ header {
   text-align: justify;
 }
 
-.content p {
-  font-size: calc(1vw + 0.5vh + 0.2vmin);
+.content p{
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
-footer{
+footer {
   margin-top: 5%;
 }

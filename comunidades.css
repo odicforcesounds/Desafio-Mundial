@@ -8,3 +8,17 @@ header {
   margin-right: 2rem;
   text-align: justify;
 }
+
+.content p {
+  font-size: calc(1vw + 0.5vh + 0.2vmin);
+}
+
+ul{
+  font-size: calc(1vw + 0.5vh + 0.2vmin);
+  text-align: justify;
+}
+
+
+footer{
+  margin-top: 5%;
+}

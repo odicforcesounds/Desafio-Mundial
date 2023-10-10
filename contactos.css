@@ -5,13 +5,15 @@ header p {
 
 .content {
   margin: 2rem;
-  text-align: justify;
+  text-align: center;
+  line-height: 2rem;
 }
 
 .content p {
-  font-size: calc(1vw + 0.5vh + 0.2vmin);
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
 footer {
   margin-top: 5%;
+  text-align: center;
 }

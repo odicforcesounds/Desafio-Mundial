@@ -4,9 +4,15 @@ header {
 }
 
 .content {
-
   margin-left: 2rem;
   margin-right: 2rem;
   text-align: justify;
+}
 
+.content p {
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
+}
+
+footer {
+  margin-top: 5%;
 }
