@@ -11,13 +11,22 @@ blockquote {
   text-align: center;
 }
 
+a{
+  text-decoration: none;
+}
+
 ul {
   text-align: center;
-
+  list-style: none;
 }
 
 .express {
   text-align: center;
+}
+
+.content {
+  text-align: justify;
+  margin:2rem;
 }
 
 .content p {

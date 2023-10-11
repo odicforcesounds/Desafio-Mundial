@@ -1,6 +1,10 @@
 header {
   text-align: center;
-  font-size: xx-large;
+  font-size: calc(2vw + 0.5vh + 0.2vmin);
+}
+
+a {
+  text-decoration: none;
 }
 
 .content {

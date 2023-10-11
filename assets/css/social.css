@@ -3,6 +3,10 @@ header p {
   font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
 
+a{
+  text-decoration: none;
+}
+
 .content {
   margin: 2rem;
   text-align: justify;
