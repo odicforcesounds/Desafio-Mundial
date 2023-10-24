@@ -7,7 +7,7 @@ echo "ssh-agents killed"
 eval $(ssh-agent)
 sleep 1 
 echo "ssh-agent inicialized"
-ssh-add ~/.ssh/osounds
+ssh-add ~/.ssh/omrsa
 sleep 1
 echo "ssh-key-id added"
 git add . 
