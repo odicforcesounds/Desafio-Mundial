@@ -34,6 +34,11 @@ a{
   justify-content: space-between;
 }
 
+.player{
+  text-align:center;
+  padding:0.2%;
+}
+
 
 
 footer span{
