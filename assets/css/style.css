@@ -35,22 +35,25 @@ a {
   text-align: center;
 }
 
-footer span{
-	display: inline;
-}
-
-footer {
-	text-align: center;
-	position: fixed;
-	bottom: 0px;
-	left: 0px;
-	right: 0px;
-	margin-bottom: 0px;
-	text-decoration: none;
-	display: flex;
-	flex-direction: column;
+.content {
+  text-align: center;
 }
 
 footer a {
+  color: white;
   text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  color: cyan;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
 }
