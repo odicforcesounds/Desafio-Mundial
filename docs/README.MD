@@ -1,4 +1,6 @@
-# World Wide Brands Challenge: Empowering Actions, Inspiring Change
+# World Wide Brands Challenge: 
+
+> Empowering Actions, Inspiring Change
 
 ## Join the global movement where every action for Human, Animal, and Nature Rights earns recognition and impact.
 
