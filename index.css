@@ -39,8 +39,6 @@ a{
   padding:0.2%;
 }
 
-
-
 footer span{
 	display: inline;
         color:white;
@@ -48,6 +46,10 @@ footer span{
 
 footer a {
   color:cyan;
+}
+
+footer  p{
+  color:white;
 }
 
 footer {
