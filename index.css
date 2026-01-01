@@ -19,12 +19,10 @@ a{
 }
 
 .content {
-  float:inline-start;
   display: block;
 }
 
 .content li {
-  list-style: none;
   position:sticky;
 }
 
@@ -50,8 +48,11 @@ a{
   color:wheat;
 }
 
+.center {
+  font-size:32px; 
+}
+
 .textbox {
-  margin-left: 10rem;
   text-align: justify;
   font-size: 34px;
 }
