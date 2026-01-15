@@ -39,6 +39,10 @@ a{
   font-size: 35px;
 }
 
+.center{
+  text-align: center;
+}
+
 .others {
   display: relative;
   background-color: black;
@@ -58,6 +62,16 @@ a{
   text-align: justify;
   font-size: 34px;
   margin:5rem;
+}
+
+table {
+  text-align: center;
+  margin-left: 35%;
+}
+
+table th tr td {
+  text-align: center;
+  justify-content: space-between;
 }
 
 footer span{
