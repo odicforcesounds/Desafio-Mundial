@@ -20,10 +20,12 @@ a{
 
 .content {
   display: block;
+  float: inline-start;
 }
 
 .content li {
   position:sticky;
+  list-style: none;
 }
 
 .latin {
@@ -34,7 +36,7 @@ a{
 
 .latin li a {
   color:wheat;
-  font-size: 18px;
+  font-size: 35px;
 }
 
 .others {
@@ -44,7 +46,7 @@ a{
 }
 
 .others li a {
-  font-size:18px;
+  font-size:35px;
   color:wheat;
 }
 
@@ -55,11 +57,12 @@ a{
 .textbox {
   text-align: justify;
   font-size: 34px;
+  margin:5rem;
 }
 
 footer span{
 	display: inline;
-        color:white;
+  color:white;
 }
 
 footer a {
