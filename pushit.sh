@@ -13,6 +13,6 @@ echo "ssh-key-id added"
 git add . 
 echo "all changes added to commit state"
 git commit -m "Make it Right for a Better Ride."
-git push git@github.com:odicforcesounds/Desafio-Mundial
+git push git@github.com:odicforcesounds/wiki
 echo "Push completed"
 sleep 3
